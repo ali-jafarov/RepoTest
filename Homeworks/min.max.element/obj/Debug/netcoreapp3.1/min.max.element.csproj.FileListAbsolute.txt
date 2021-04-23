@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\bin\Debug\netcoreapp3.1\min.max.element.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\min.max.element\obj\Debug\netcoreapp3.1\min.max.element.genruntimeconfig.cache

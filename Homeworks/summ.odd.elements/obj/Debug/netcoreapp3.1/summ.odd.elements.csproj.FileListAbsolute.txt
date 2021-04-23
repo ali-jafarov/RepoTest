@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\bin\Debug\netcoreapp3.1\summ.odd.elements.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\summ.odd.elements\obj\Debug\netcoreapp3.1\summ.odd.elements.genruntimeconfig.cache
