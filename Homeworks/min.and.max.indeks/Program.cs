@@ -3,7 +3,7 @@
 namespace min.and.max.indeks
 {
   
-    class Program
+  class Program
   {
     static void Main(string[] args)
     {
@@ -71,7 +71,10 @@ namespace min.and.max.indeks
 
       Console.WriteLine($"minimal index is {minIndex}");
       Console.WriteLine($"maximal index is {maxIndex}");
+      
+      Console.ReadKey();
     }
+
   }
 }
 

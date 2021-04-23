@@ -16,7 +16,7 @@ namespace revers.mass
         mass2[i] = mass1[i];
         Console.WriteLine(mass2[i]);
       }
-
+      Console.ReadKey();
     }
 
   }

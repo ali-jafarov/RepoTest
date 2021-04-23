@@ -21,6 +21,6 @@ namespace fibonachi
         Console.WriteLine(mass[i]);
       }
     }
-
+    Console.ReadKey();
   }
 }

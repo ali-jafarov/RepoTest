@@ -65,7 +65,7 @@ namespace bubble
       {
         Console.WriteLine(mass1[i]);
       }
-
+      Console.ReadKey();
     }
   }
         

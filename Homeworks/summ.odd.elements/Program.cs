@@ -55,7 +55,8 @@ namespace summ.odd.elements
       }
 
       Console.WriteLine($"количество нечетных элементов массива = {count}");
-
+      
+      Console.ReadKey();
     }
   }
 }

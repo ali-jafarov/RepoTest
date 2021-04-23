@@ -58,6 +58,7 @@ namespace summ.odd.index
 
       Console.WriteLine($"Сумма элементов массива с нечетными индексами = {sumOdd}");
 
+      Console.ReadKey();
     }
   }
 }

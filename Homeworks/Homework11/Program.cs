@@ -133,6 +133,7 @@ namespace Homework11
         }
 
       } while (check == false);
+      Console.ReadKey();
     }
   }
 }
