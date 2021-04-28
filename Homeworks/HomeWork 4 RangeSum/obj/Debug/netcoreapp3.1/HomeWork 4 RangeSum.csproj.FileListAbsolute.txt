@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\bin\Debug\netcoreapp3.1\HomeWork 4 RangeSum.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 4 RangeSum\obj\Debug\netcoreapp3.1\HomeWork 4 RangeSum.genruntimeconfig.cache

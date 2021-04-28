@@ -121,7 +121,7 @@ namespace who_is_older_method
 
       } while (check == false);
 
-
+      Console.ReadKey();
     }
 
 
@@ -147,7 +147,7 @@ namespace who_is_older_method
       }
       return false;
     }
-
+    
   }
 }
 

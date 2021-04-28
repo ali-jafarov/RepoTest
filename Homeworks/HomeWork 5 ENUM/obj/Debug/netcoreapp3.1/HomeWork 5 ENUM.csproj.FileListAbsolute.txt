@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\bin\Debug\netcoreapp3.1\HomeWork 5 ENUM.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork 5 ENUM\obj\Debug\netcoreapp3.1\HomeWork 5 ENUM.genruntimeconfig.cache
