@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\bin\Debug\netcoreapp3.1\HomeWork Tirangle.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Tirangle\obj\Debug\netcoreapp3.1\HomeWork Tirangle.genruntimeconfig.cache

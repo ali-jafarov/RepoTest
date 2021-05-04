@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\bin\Debug\netcoreapp3.1\HomeWork Array2.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWork Array2\obj\Debug\netcoreapp3.1\HomeWork Array2.genruntimeconfig.cache

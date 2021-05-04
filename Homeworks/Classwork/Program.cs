@@ -6,38 +6,28 @@ namespace Classwork
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Введите сумму наличных");
+      Console.WriteLine("Enter your salary");
+      double salary = Convert.ToDouble(Console.ReadLine());
+      Console.WriteLine("Enter month");
+      int month = Convert.ToInt32(Console.ReadLine());
+
+      int percent = 23;
+
+      double net = salary * 100 / (100 - percent);
+      double percentNum = (net - salary)*month;
+
+      double sumSalary = net * month;
+      Console.WriteLine($"{net}");
+      Console.WriteLine($"Sum of salary{sumSalary}");
+      Console.WriteLine($"Sum of percent{percentNum}");
 
 
-      double cash = Convert.ToDouble(Console.ReadLine());
 
-      
-      
-        if (cash > 14)
-        {
-          Console.WriteLine("invalid input");
-          
-        }
-        
-       
-        
-      
-      
-      
-      double bread = 0.45;
-      double salt = 0.56;
-      double gum = 0.73;
-      double cola = 1.34;
-      double peanut = 1.49;
-      double milk = 2.35;
-      double sigarets = 3.94;
-      double sweets = 5;
 
-      if () 
-      {
-        Console.WriteLine("У вас недостаточно наличных");
-      }
-      
+
+
+
+
 
     }
   }
