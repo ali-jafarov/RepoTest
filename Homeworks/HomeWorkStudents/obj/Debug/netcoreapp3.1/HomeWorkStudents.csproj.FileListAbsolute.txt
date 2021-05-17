@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\bin\Debug\netcoreapp3.1\HomeWorkStudents.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\HomeWorkStudents\obj\Debug\netcoreapp3.1\HomeWorkStudents.genruntimeconfig.cache
