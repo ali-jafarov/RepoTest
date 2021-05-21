@@ -29,10 +29,7 @@ namespace AbstractClass
     private int year;
     private string docNumber;
 
-    public string DocNumber { get; set; }
-
-
-    public int Year { get; set; }
+    
 
 
     public Student(string name, string surname, int year, string docNumber) : base(name, surname)

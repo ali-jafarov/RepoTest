@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\bin\Debug\netcoreapp3.1\MusicInst.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\MusicInst\obj\Debug\netcoreapp3.1\MusicInst.genruntimeconfig.cache
