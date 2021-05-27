@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp26\\ConsoleApp26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp26\\ConsoleApp26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp26\\ConsoleApp26.csproj",
+        "projectName": "ConsoleApp26",
+        "projectPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp26\\ConsoleApp26.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp26\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

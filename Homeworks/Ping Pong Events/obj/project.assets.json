@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\Ping Pong Events\\Ping Pong Events.csproj",
+      "projectName": "Ping Pong Events",
+      "projectPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\Ping Pong Events\\Ping Pong Events.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\RepoTest\\Homeworks\\Ping Pong Events\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
