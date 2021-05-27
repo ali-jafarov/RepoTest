@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.exe
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.deps.json
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.runtimeconfig.json
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.runtimeconfig.dev.json
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\bin\Debug\netcoreapp3.1\Ping Pong Game.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.AssemblyInfo.cs
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.dll
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.pdb
+C:\Users\User\Desktop\RepoTest\Homeworks\Ping Pong Game\obj\Debug\netcoreapp3.1\Ping Pong Game.genruntimeconfig.cache
